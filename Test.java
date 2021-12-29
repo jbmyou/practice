@@ -9,7 +9,7 @@ public class Test {
 				System.out.printf("%d * %d = %d\n", i, j, i * j);
 				j++;
 			}
-			System.out.println("10ÃÊ µÚ¿¡ ´ÙÀ½ ´ÜÀÌ Ãâ·ÂµË´Ï´Ù.");
+			System.out.println("10ì´ˆ ë’¤ì— ë‹¤ìŒ ë‹¨ì´ ì¶œë ¥ë©ë‹ˆë‹¤.");
 			try {
 				for (int k = 10; k >= 1; k--) {
 					System.out.print(k + "\t");
@@ -23,5 +23,3 @@ public class Test {
 		}
 
 	}
-
-}
